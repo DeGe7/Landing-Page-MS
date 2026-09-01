@@ -1,5 +1,7 @@
 # MS Hair Studio — Landing Page
 
+**Site publicado:** [msstudios.com.br](https://msstudios.com.br/)
+
 Landing page institucional desenvolvida para a MS Hair Studio, com foco em beleza, identidade e prótese capilar.
 
 ## Destaques
